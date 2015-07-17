@@ -1,4 +1,4 @@
-$( document ).ready(function() {
+$ (document).ready(function() {
 
-	$( 'h2' ).css('color', 'red');
+	$ ('h2').css('color','red');
 });
